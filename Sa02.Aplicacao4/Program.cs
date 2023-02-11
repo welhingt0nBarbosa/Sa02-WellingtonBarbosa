@@ -15,14 +15,14 @@ namespace Sa02.Aplicacao4
 
             Console.WriteLine("O progama dividirá 5000 reais entre 10 funcionários;");
 
-            Aplicativo4RN aplicativo4RN = new Aplicativo4RN() {Grana = 5000};
+            Aplicativo4RN aplicativo4RN = new Aplicativo4RN() {ValorASerDividido = 5000};
           
 
             aplicativo4RN.AddCLient(10);
 
             aplicativo4RN.GetCLient();
-            
 
+            Console.WriteLine("certo?");
             
         }
     }

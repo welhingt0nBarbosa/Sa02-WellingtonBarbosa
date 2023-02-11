@@ -9,12 +9,12 @@ namespace Sa02.RegrasDeNegocio
     public class Aplicativo4RN
     {
         public IList<Cliente> ClientesEspeciais { get; set; } = new List<Cliente>();
-        public decimal Grana {get; set;}
+        public decimal ValorASerDividido {get; set;}
 
         public decimal DividirValor(decimal d)
         {
 
-            decimal resultado = Grana / d ;
+            decimal resultado = ValorASerDividido / d ;
           
             return resultado;
 
@@ -28,8 +28,6 @@ namespace Sa02.RegrasDeNegocio
                 
             }
         }
-
-       
 
         public void GetCLient()
         {
