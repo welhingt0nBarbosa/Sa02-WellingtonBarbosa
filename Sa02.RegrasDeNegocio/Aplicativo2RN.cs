@@ -15,8 +15,6 @@ namespace Sa02.RegrasDeNegocio
             int diferenca = anoAtual- data;
 
             return diferenca;
-
-
         }
 
 

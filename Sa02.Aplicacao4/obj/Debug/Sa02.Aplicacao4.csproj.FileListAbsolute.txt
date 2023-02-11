@@ -1,0 +1,11 @@
+D:\DesenvolvedorC#\Projeto\Sa02-Wellington\Sa02.Aplicacao4\bin\Debug\Sa02.Aplicacao4.exe.config
+D:\DesenvolvedorC#\Projeto\Sa02-Wellington\Sa02.Aplicacao4\bin\Debug\Sa02.Aplicacao4.exe
+D:\DesenvolvedorC#\Projeto\Sa02-Wellington\Sa02.Aplicacao4\bin\Debug\Sa02.Aplicacao4.pdb
+D:\DesenvolvedorC#\Projeto\Sa02-Wellington\Sa02.Aplicacao4\bin\Debug\Sa02.RegrasDeNegocio.dll
+D:\DesenvolvedorC#\Projeto\Sa02-Wellington\Sa02.Aplicacao4\bin\Debug\Sa02.RegrasDeNegocio.pdb
+D:\DesenvolvedorC#\Projeto\Sa02-Wellington\Sa02.Aplicacao4\obj\Debug\Sa02.Aplicacao4.csproj.AssemblyReference.cache
+D:\DesenvolvedorC#\Projeto\Sa02-Wellington\Sa02.Aplicacao4\obj\Debug\Sa02.Aplicacao4.csproj.SuggestedBindingRedirects.cache
+D:\DesenvolvedorC#\Projeto\Sa02-Wellington\Sa02.Aplicacao4\obj\Debug\Sa02.Aplicacao4.csproj.CoreCompileInputs.cache
+D:\DesenvolvedorC#\Projeto\Sa02-Wellington\Sa02.Aplicacao4\obj\Debug\Sa02.Aplicacao4.csproj.CopyComplete
+D:\DesenvolvedorC#\Projeto\Sa02-Wellington\Sa02.Aplicacao4\obj\Debug\Sa02.Aplicacao4.exe
+D:\DesenvolvedorC#\Projeto\Sa02-Wellington\Sa02.Aplicacao4\obj\Debug\Sa02.Aplicacao4.pdb
